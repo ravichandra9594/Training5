@@ -1,0 +1,3 @@
+New file4.txt 
+
+Added now I'll stash@{2}
